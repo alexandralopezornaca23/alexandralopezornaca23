@@ -14,6 +14,7 @@ Desarrollo videojuegos en todas sus fases: **diseño de juego, programación, ar
 ### 🛠️ Herramientas que se usar
 
 <p>
+  
 - Motores y programación<br> 
 
 <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity"> <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white" alt="Unreal Engine"> <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" alt="C#">
@@ -42,6 +43,8 @@ Desarrollo videojuegos en todas sus fases: **diseño de juego, programación, ar
 - 🕹️ **itch.io** — https://alexandra2323.itch.io/
 - ▶️ **YouTube** — www.youtube.com/@Lex1-23
 - 🌐 **Landing** — [pega aquí tu enlace]
+- **Linkedn** — [pega aquí tu enlace]
+- **The Rookies** — [pega aquí tu enlace]
 - ✉️ **Contacto** — alexandraa199831@icloud.com
 
 ### 📌 Proyectos destacados
