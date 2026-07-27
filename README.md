@@ -1,6 +1,5 @@
-<img width="2400" height="220" alt="footer" src="https://github.com/user-attachments/assets/5660d972-3cdd-4008-a696-eca6ffb405fd" />
+<img width="2400" height="640" alt="image" src="https://github.com/user-attachments/assets/96b12b9e-5252-4d0f-8d6a-013004b0133c" />
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=%C2%A1Hola!+Soy+Alexandra!;Dise%C3%B1o+y+Desarrollo+de+Videojuegos;Game+Design+%C2%B7+3D+%C2%B7+Rigging+%C2%B7+Programaci%C3%B3n" alt="Presentación animada"> </p> <p align="center"> Estudiante de último año de <b>Diseño y Desarrollo de Videojuegos</b><br> Creando juegos y aprendiendo por el camino 🎮</p>
-<img width="2400" height="640" alt="banner" src="https://github.com/user-attachments/assets/d8eb193d-5a24-48e7-93a7-10e3764e6096" />
 
 ### 🎮 Qué hago?
 
