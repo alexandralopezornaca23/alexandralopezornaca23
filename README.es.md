@@ -44,11 +44,11 @@ Desarrollo videojuegos en todas sus fases: **diseño de juego, programación, ar
 
 - 🎨 **ArtStation** — https://www.artstation.com/lex23
 - 🕹️ **itch.io** — https://alexandra2323.itch.io/
-- ▶️ **YouTube** — www.youtube.com/@Lex1-23
-- 🌐 **Landing** — [pega aquí tu enlace]
-- 💼 **LinkedIn** — [pega aquí tu enlace]
+- ▶️ **YouTube** — https://www.youtube.com/@Lex1-23
 - 🌟 **The Rookies** — https://www.therookies.co/u/Lex1623
-- ✉️ **Contacto** — alexandraa199831@icloud.com
+- 💼 **LinkedIn** — https://www.linkedin.com/in/alexandra-lópez-ornaca-6119a221a
+- 🌐 **Landing** — 
+- ✉️ **Contact** — alexandraa199831@icloud.com
 
 ### 📌 Proyectos destacados
 
