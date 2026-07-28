@@ -1,5 +1,5 @@
-<img width="2400" height="640" alt="image" src="https://github.com/user-attachments/assets/96b12b9e-5252-4d0f-8d6a-013004b0133c" />
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=%C2%A1Hola!+Soy+Alexandra!;Dise%C3%B1o+y+Desarrollo+de+Videojuegos;Game+Design+%C2%B7+3D+%C2%B7+Rigging+%C2%B7+Programaci%C3%B3n" alt="Presentación animada"> </p> <p align="center"> Estudiante de último año de <b>Diseño y Desarrollo de Videojuegos</b><br> Creando juegos y aprendiendo por el camino 🎮</p>
+<img width="2400" height="640" alt="BannerEs" src="https://github.com/user-attachments/assets/2dbf29e6-acdc-4e7d-9558-d5205a519a5e"/>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=%C2%A1Hola!+Soy+Alexandra!;Dise%C3%B1o+y+Desarrollo+de+Videojuegos;Game+Design+%C2%B7+3D+%C2%B7+Rigging+%C2%B7+Programaci%C3%B3n" alt="Presentación animada"> </p><p align="center"> Estudiante de último año de <b>Diseño y Desarrollo de Videojuegos</b> 🎮</p>
 
 ### 🎮 Qué hago?
 
@@ -53,7 +53,6 @@ Desarrollo videojuegos en todas sus fases: **diseño de juego, programación, ar
 
 - **Big Teeth, Small Tail** — Juego de aventura en vista 2.5D que fusiona un personaje 2D con entornos 3D. Prototipo de 3 niveles (proyecto universitario en equipo de 3). Mi aporte: programación completa, gran parte del diseño de juego, modelado de buena parte de los escenarios y diseño y animación del personaje 2D. · https://alexandra2323.itch.io/big-teeth-small-tail
 
-- **Lost in Toyland** — Shooter en tercera persona desarrollado íntegramente por mí como micro-proyecto de universidad. · https://alexandra2323.itch.io/lost-in-toyland
+- **Lost in Toyland** — Shooter en tercera persona desarrollado íntegramente por mí como micro-proyecto de universidad. · https://alexandra2323.itch.io/lost-in-toyland<br>
 
-</p> <img width="100%" src="footer.png" alt="">
-<img width="2400" height="220" alt="footer" src="https://github.com/user-attachments/assets/ac07da36-60f7-4124-940d-b56f5569a583" />
+<br><br><img width="2400" height="223" alt="FooterEs" src="https://github.com/user-attachments/assets/06b73a09-8e88-4d57-93b8-194174eb2a2b" />
