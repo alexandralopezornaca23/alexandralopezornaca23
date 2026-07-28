@@ -32,9 +32,9 @@ I develop games across the whole pipeline: **game design, programming, 2D and 3D
 - 🎨 **ArtStation** — https://www.artstation.com/lex23
 - 🕹️ **itch.io** — https://alexandra2323.itch.io/
 - ▶️ **YouTube** — https://www.youtube.com/@Lex1-23
-- 🌐 **Landing** — [paste your link here]
-- 💼 **LinkedIn** — [paste your link here]
 - 🌟 **The Rookies** — https://www.therookies.co/u/Lex1623
+- 💼 **LinkedIn** — https://www.linkedin.com/in/alexandra-lópez-ornaca-6119a221a
+- 🌐 **Landing** — 
 - ✉️ **Contact** — alexandraa199831@icloud.com
 
 ### 📌 Featured projects
