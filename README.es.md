@@ -1,5 +1,5 @@
 <p align="right"><a href="README.md">🇬🇧 English</a> · 🇪🇸 <b>Español</b></p><br><br>
-<br><img width="2400" height="640" alt="BannerEs" src="https://github.com/user-attachments/assets/2dbf29e6-acdc-4e7d-9558-d5205a519a5e"/><br>
+<img width="2400" height="640" alt="BannerEs" src="https://github.com/user-attachments/assets/2dbf29e6-acdc-4e7d-9558-d5205a519a5e"/><br>
 <br><br><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=%C2%A1Hola!+Soy+Alexandra!;Dise%C3%B1o+y+Desarrollo+de+Videojuegos;Game+Design+%C2%B7+3D+%C2%B7+Rigging+%C2%B7+Programaci%C3%B3n" alt="Presentación animada"> </p><p align="center"> Estudiante de último año de <b>Diseño y Desarrollo de Videojuegos</b> 🎮</p>
 
 ### 🎮 Qué hago?
