@@ -24,8 +24,7 @@ I develop games across the whole pipeline: **game design, programming, 2D and 3D
 <img src="https://img.shields.io/badge/Blender-EA7600?logo=blender&logoColor=white" alt="Blender"> <img src="https://img.shields.io/badge/Autodesk_Maya-37A5CC?logo=autodeskmaya&logoColor=white" alt="Maya"> <img src="https://img.shields.io/badge/ZBrush-B24B3A?logoColor=white" alt="ZBrush">
 - Audio<br>
 <img src="https://img.shields.io/badge/Audacity-0B5FA5?logo=audacity&logoColor=white" alt="Audacity"> <img src="https://img.shields.io/badge/Ableton_Live-333333?logoColor=white" alt="Ableton Live">
-- UI design<br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
+- UI design<br><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
 </p>
 <!-- Add or remove the ones you actually use -->
 
