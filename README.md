@@ -6,9 +6,11 @@
 <p align="center">Final-year student of <b>Game Design & Development</b> 🎮</p>
 
 ### 🎮 What I do
+
 I develop games across the whole pipeline: **game design, programming, 2D and 3D art, rigging and some animation**. I like touching every part of the process and taking an idea from concept to something playable.
 
 ### 🌱 Right now...
+
 - 🎓 In my final year of my degree
 - 🧩 Building my portfolio one project at a time
 - 💼 **Open to internships** and working toward my own studio
@@ -29,6 +31,7 @@ I develop games across the whole pipeline: **game design, programming, 2D and 3D
 <!-- Add or remove the ones you actually use -->
 
 ### 🔗 My portfolio
+
 - 🎨 **ArtStation** — https://www.artstation.com/lex23
 - 🕹️ **itch.io** — https://alexandra2323.itch.io/
 - ▶️ **YouTube** — https://www.youtube.com/@Lex1-23
@@ -38,6 +41,7 @@ I develop games across the whole pipeline: **game design, programming, 2D and 3D
 - ✉️ **Contact** — alexandraa199831@icloud.com
 
 ### 📌 Featured projects
+
 - **My Multiplayer Game** — Multiplayer prototype with team-based matches up to 5 vs 5 and 3 playable levels. University project, entirely my own work (design, programming and art). · Coming soon on itch.io
   
 - **Big Teeth, Small Tail** — Adventure game in 2.5D that blends a 2D character with 3D environments. 3-level prototype (university project, team of 3). My contribution: all of the programming, a large part of the game design, modeling much of the environments, and the design and animation of the 2D character. · https://alexandra2323.itch.io/big-teeth-small-tail
