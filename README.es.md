@@ -47,7 +47,7 @@ Desarrollo videojuegos en todas sus fases: **diseño de juego, programación, ar
 - ▶️ **YouTube** — www.youtube.com/@Lex1-23
 - 🌐 **Landing** — [pega aquí tu enlace]
 - 💼 **LinkedIn** — [pega aquí tu enlace]
-- 🌟 **The Rookies** — [pega aquí tu enlace]
+- 🌟 **The Rookies** — https://www.therookies.co/u/Lex1623
 - ✉️ **Contacto** — alexandraa199831@icloud.com
 
 ### 📌 Proyectos destacados
