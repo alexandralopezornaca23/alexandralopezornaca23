@@ -1,4 +1,4 @@
-<p align="right"><a href="README.md">🇪🇸 Español</a> · 🇬🇧 <b>English</b></p>
+<p align="right">🇬🇧 <b>English</b> · <a href="README.es.md">🇪🇸 Español</a></p>
 
 <br><br><img width="2400" height="640" alt="BannerEg" src="https://github.com/user-attachments/assets/6c4358ef-27cf-4490-8030-e7b70c0f346a" />
 
