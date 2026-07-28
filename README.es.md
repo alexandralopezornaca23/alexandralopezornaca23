@@ -46,8 +46,8 @@ Desarrollo videojuegos en todas sus fases: **diseño de juego, programación, ar
 - 🕹️ **itch.io** — https://alexandra2323.itch.io/
 - ▶️ **YouTube** — www.youtube.com/@Lex1-23
 - 🌐 **Landing** — [pega aquí tu enlace]
-- **LinkedIn** — [pega aquí tu enlace]
-- **The Rookies** — [pega aquí tu enlace]
+- 💼 **LinkedIn** — [pega aquí tu enlace]
+- 🌟 **The Rookies** — [pega aquí tu enlace]
 - ✉️ **Contacto** — alexandraa199831@icloud.com
 
 ### 📌 Proyectos destacados
