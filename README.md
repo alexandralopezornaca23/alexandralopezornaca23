@@ -37,7 +37,7 @@ I develop games across the whole pipeline: **game design, programming, 2D and 3D
 - ▶️ **YouTube** — https://www.youtube.com/@Lex1-23
 - 🌟 **The Rookies** — https://www.therookies.co/u/Lex1623
 - 💼 **LinkedIn** — https://www.linkedin.com/in/alexandra-lópez-ornaca
-- 🌐 **Landing** — 
+- 🌐 **Landing** — https://alexandralopezornaca23.github.io/
 - ✉️ **Contact** — alexandraa199831@icloud.com
 
 ### 📌 Featured projects
