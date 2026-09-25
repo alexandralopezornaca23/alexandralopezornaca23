@@ -30,9 +30,9 @@ I develop games across the whole pipeline: **game design, programming, 2D and 3D
 </p>
 <!-- Add or remove the ones you actually use -->
 
-## 🚀 Projects
+### 🛠️ Tools I've built
 
-- 📊 **[Game Designer's Guide](https://alexandralopezornaca23.github.io/Game-Designer-s-Guide)** — 5,607 shortcut, tool and interface entries across 13 of the programs above. Written by hand over months, and published automatically from a single spreadsheet with Python, MkDocs and GitHub Actions.
+- 📊 **[Game Designer's Guide](https://alexandralopezornaca23.github.io/Game-Designer-s-Guide)** — 5,607 shortcut, tool and interface entries across 13 programs and scripting languages. Written by hand over months, and published automatically from a single spreadsheet with Python, MkDocs and GitHub Actions.
 
 ### 🔗 My portfolio
 
