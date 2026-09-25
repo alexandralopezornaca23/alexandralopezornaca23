@@ -46,7 +46,7 @@ I develop games across the whole pipeline: **game design, programming, 2D and 3D
 
 ### 📌 Featured projects
 
-- **My Multiplayer Game** — Multiplayer prototype with team-based matches up to 5 vs 5 and 3 playable levels. University project, entirely my own work (design, programming and art). · Coming soon on itch.io
+- **Cadetes Órbita** — Multiplayer prototype with team-based matches up to 5 vs 5 and 3 playable levels. University project, entirely my own work (design, programming and art). · Coming soon on itch.io
   
 - **Big Teeth, Small Tail** — Adventure game in 2.5D that blends a 2D character with 3D environments. 3-level prototype (university project, team of 3). My contribution: all of the programming, a large part of the game design, modeling much of the environments, and the design and animation of the 2D character. · https://alexandra2323.itch.io/big-teeth-small-tail
   
