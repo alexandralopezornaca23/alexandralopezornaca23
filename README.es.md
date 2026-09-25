@@ -40,6 +40,10 @@ Desarrollo videojuegos en todas sus fases: **diseño de juego, programación, ar
 </p>
 <!-- Añade o quita las que uses de verdad -->
 
+### 🛠️ Herramientas que he creado
+
+- 📊 **[Game Designer's Guide](https://alexandralopezornaca23.github.io/Game-Designer-s-Guide)** — 5.607 entradas de atajos, herramientas e interfaz de 13 programas y lenguajes de scripting. Escritas a mano durante meses y publicadas automáticamente desde una sola hoja de cálculo con Python, MkDocs y GitHub Actions.
+
 ### 🔗 Mi portafolio
 
 - 🎨 **ArtStation** — https://www.artstation.com/lex23
