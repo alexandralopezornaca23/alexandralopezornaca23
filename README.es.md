@@ -56,7 +56,7 @@ Desarrollo videojuegos en todas sus fases: **diseño de juego, programación, ar
 
 ### 📌 Proyectos destacados
 
-- **Mi Juego Multijugador** — Prototipo multijugador con partidas de equipos de hasta 5 vs 5 y 3 niveles jugables. Proyecto de universidad de creación totalmente propia (diseño, programación y arte). · Próximamente en itch.io
+- **Cadetes Órbita** — Prototipo multijugador con partidas de equipos de hasta 5 vs 5 y 3 niveles jugables. Proyecto de universidad de creación totalmente propia (diseño, programación y arte). · Próximamente en itch.io
 
 - **Big Teeth, Small Tail** — Juego de aventura en vista 2.5D que fusiona un personaje 2D con entornos 3D. Prototipo de 3 niveles (proyecto universitario en equipo de 3). Mi aporte: programación completa, gran parte del diseño de juego, modelado de buena parte de los escenarios y diseño y animación del personaje 2D. · https://alexandra2323.itch.io/big-teeth-small-tail
 
